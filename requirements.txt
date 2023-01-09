@@ -30,7 +30,7 @@ misaka==2.1.1
 oauthlib==3.0.1
 pep8==1.7.1
 Pillow==8.0.1
-psycopg2 @ file:///C:/ci/psycopg2_1594305172475/work
+
 pycodestyle==2.5.0
 pycparser==2.20
 PyJWT==2.6.0
